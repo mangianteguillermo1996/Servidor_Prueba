@@ -1,0 +1,70 @@
+{
+  "profesores": [
+    {
+      "nombre": "Guillermo",
+      "apellido": "Mangiante",
+      "materias": [
+        {
+          "nombre": "JavaScript"
+        },
+        {
+          "nombre": "NodeJS"
+        },
+        {
+          "nombre": "ReactJS"
+        }
+      ],
+      "id": "22af"
+    },
+    {
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "materias": [
+        {
+          "nombre": "Lengua"
+        },
+        {
+          "nombre": "Matematica"
+        },
+        {
+          "nombre": "Fisica"
+        }
+      ],
+      "id": "71cb"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "promedio": 8.5,
+      "id": "2d35"
+    },
+    {
+      "nombre": "Ana",
+      "apellido": "Gomez",
+      "promedio": 9,
+      "id": "5ed5"
+    },
+    {
+      "nombre": "Luis",
+      "apellido": "Martinez",
+      "promedio": 7.5,
+      "id": "82c8"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Desarrollo Web",
+      "codigo": "DW101",
+      "profesor": "Guillermo Mangiante",
+      "id": "f2cc"
+    },
+    {
+      "nombre": "Programación Avanzada",
+      "codigo": "PA202",
+      "profesor": "Guillermo Mangiante",
+      "id": "0557"
+    }
+  ]
+}
